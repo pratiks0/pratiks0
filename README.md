@@ -18,11 +18,11 @@ I am a passionate developer diving deep into the world of **Full Stack Developme
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratiks0&theme=dark)](https://git.io/streak-stats)
 
 </td></tr></table>  
 
@@ -30,7 +30,7 @@ I am a passionate developer diving deep into the world of **Full Stack Developme
 
   
 
-<br/>
+<br/> 
 
 ### 📫 How to reach me
 - GitHub: [pratiks0](https://github.com/pratiks0)
