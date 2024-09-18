@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**pratiks0/pratiks0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Here are some ideas to get you started:
+## 👋 Hi, I'm Pratik Singh!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer diving deep into the world of **Full Stack Development**. I bring ideas to life on the web. I'm also exploring 3D model designing to add an extra dimension to my projects.
+
+### 🌱 Currently Learning
+- Full Stack Development
+- Advanced JavaScript and Node.js techniques
+
+### 🚀 About Me
+- 🔭 I’m currently building innovative web and Web3 applications.
+- 🌟 I have a strong focus on creating visually appealing and user-friendly websites.
+- 💡 I love exploring new technologies and adding unique dimensions to my projects.
+- 🎨 Web Designer by passion, Developer by profession.
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>
+
+### 📫 How to reach me
+- GitHub: [pratiks0](https://github.com/pratiks0)
