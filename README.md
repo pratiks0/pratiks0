@@ -10,7 +10,6 @@ I am a passionate developer diving deep into the world of **Full Stack Developme
 - Advanced JavaScript and Node.js techniques
 
 ### 🚀 About Me
-- 🔭 I’m currently building innovative web and Web3 applications.
 - 🌟 I have a strong focus on creating visually appealing and user-friendly websites.
 - 💡 I love exploring new technologies and adding unique dimensions to my projects.
 - 🎨 Web Designer by passion, Developer by profession.
