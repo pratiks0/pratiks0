@@ -33,3 +33,4 @@ I am a passionate developer diving deep into the world of **Full Stack Developme
 
 ### 📫 How to reach me
 - GitHub: [pratiks0](https://github.com/pratiks0)
+- X: [prat1k_s](https://x.com/prat1k_s)
