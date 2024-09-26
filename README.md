@@ -12,7 +12,6 @@ I am a passionate developer diving deep into the world of **Full Stack Developme
 ### 🚀 About Me
 - 🌟 I have a strong focus on creating visually appealing and user-friendly websites.
 - 💡 I love exploring new technologies and adding unique dimensions to my projects.
-- 🎨 Web Designer by passion, Developer by profession.
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
