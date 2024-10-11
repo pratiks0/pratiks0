@@ -1,7 +1,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 👋 Hi, I'm Pratik Singh
+## 👋 Hi, I'm Pratik Singh!!
 
 I am a passionate developer diving deep into the world of **Full Stack Development**. I bring ideas to life on the web. I'm also exploring 3D model designing to add an extra dimension to my projects.
 
