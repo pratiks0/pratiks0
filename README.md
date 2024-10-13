@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Pratik Singh!!
 
-I am a passionate developer diving deep into the world of **Full Stack Development**. I bring ideas to life on the web. I'm also exploring 3D model designing to add an extra dimension to my projects.
+I am a passionate developer diving deep into the world of **Full Stack Development**. I bring ideas to life on the web.
 
 ### 🌱 Currently Learning
 - Full Stack Development
