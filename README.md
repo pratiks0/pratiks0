@@ -3,7 +3,7 @@
 
 ## 👋 Hi, I'm Pratik Singh!!
 
-I am a passionate developer diving deep into the world of Full Stack Development. 
+I am a passionate developer diving deep into the world of Full Stack Development. <br/>
 **I bring ideas to life on the web.**
 
 ### 🌱 Currently Learning
@@ -17,7 +17,7 @@ I am a passionate developer diving deep into the world of Full Stack Development
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiks0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiks0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></div>
 
 </td><td valign="top" width="50%">
 
@@ -26,11 +26,3 @@ I am a passionate developer diving deep into the world of Full Stack Development
 </td></tr></table>  
 
 <br/>  
-
-  
-
-<br/> 
-
-### 📫 How to reach me
-- GitHub: [pratiks0](https://github.com/pratiks0)
-- X: [prat1k_s](https://x.com/prat1k_s)
