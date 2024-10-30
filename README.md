@@ -21,7 +21,12 @@
 
 </td><td valign="top" width="50%">
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratiks0&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 
 </td></tr></table>  
 
