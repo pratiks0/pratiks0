@@ -11,7 +11,7 @@
 - Advanced JavaScript and Node.js techniques
 
 ### 🚀 About Me
-- 🌟 I have a strong focus on creating visually appealing and user-friendly websites.
+- 🌟 I have a strong focus on creating visually appealing and user-friendly applications.
 - 💡 I love exploring new technologies and adding unique dimensions to my projects.
 
 ## Github Stats  
