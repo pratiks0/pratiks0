@@ -18,7 +18,7 @@
 <table><tr><td valign="top" width="50%" align="center">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratiks0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=dark" alt="languages graph" />
 </div>
 
 </td><td valign="top" width="50%" align="center">
