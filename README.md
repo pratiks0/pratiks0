@@ -1,33 +1,58 @@
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-## 👋 Hi, I'm Pratik Singh!!
-
-- I am a passionate developer diving deep into the world of Full Stack Development. <br/>
-- **I bring ideas to life on the web.**
-
-### 🌱 Currently Learning
-- Full Stack Development
-- Advanced JavaScript and Node.js techniques
-
-### 🚀 About Me
-- 🌟 I have a strong focus on creating visually appealing and user-friendly applications.
-- 💡 I love exploring new technologies and adding unique dimensions to my projects.
-
-## Github Stats  
-<table><tr><td valign="top" width="50%" align="center">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=dark" alt="languages graph" />
-</div>
-
-</td><td valign="top" width="50%" align="center">
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="400" />
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=dark)](https://git.io/streak-stats)
+# 👋 Hi, I'm **Pratik Singh**  
+**🚀 Turning ideas into reality through code!**
 
 </div>
+
+---
+
+## 🌟 **About Me**  
+✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.  
+💻 Specialize in building **visually appealing**, **user-friendly applications** with a dash of creativity.  
+🌱 Currently enhancing skills in **Advanced JavaScript**, **Node.js**, and **modern web technologies**.  
+
+---
+
+## 🌱 **Currently Learning**  
+- Full Stack Development  
+- Advanced JavaScript & Node.js  
+- React and Next.js
+
+---
+
+## 📊 **GitHub Stats**
+
+<table>
+<tr>
+<td valign="top" width="50%" align="center">
+
+**Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</td>
+<td valign="top" width="50%" align="center">
+
+**Contribution Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </td>
 </tr>
-</table> 
+</table>
+
+---
+
+## 🌐 **Connect with Me**  
+🌍 **Portfolio**: [pratiksingh.netlify.app](https://pratiksingh.netlify.app)  
+💌 **Email**: pratiks@example.com  
+🔗 **LinkedIn**: [linkedin.com/in/pratik-singh-a20389314/](https://www.linkedin.com/in/pratik-singh-a20389314/)  
+🐦 **Twitter**: [x.com/prat1k_s](https://x.com/prat1k_s)  
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/55389276/141079161-b7447eb9-15df-439a-a94e-3c990e0e6f5f.gif" alt="Banner Animation" width="100%" />
+
+### "Code is like humor. When you have to explain it, it’s bad."  
+</div>
