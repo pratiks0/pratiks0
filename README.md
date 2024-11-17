@@ -45,9 +45,9 @@
 
 ## 🌐 **Connect with Me**  
 🌍 **Portfolio**: [pratiksingh.netlify.app](https://pratiksingh.netlify.app)  
-💌 **Email**: pratiks@example.com  
-🔗 **LinkedIn**: [linkedin.com/in/pratik-singh-a20389314/](https://www.linkedin.com/in/pratik-singh-a20389314/)  
-🐦 **Twitter**: [x.com/prat1k_s](https://x.com/prat1k_s)  
+💌 **Email**: pratik99672@gmail.com  
+🔗 **LinkedIn**: [pratik-singh](https://www.linkedin.com/in/pratik-singh-a20389314/)  
+🐦 **Twitter**: [prat1k_s](https://x.com/prat1k_s)  
 
 ---
 
