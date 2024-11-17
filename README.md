@@ -10,8 +10,7 @@
 
 ## 🌟 **About Me**  
 ✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.  
-💻 Specialize in building **visually appealing**, **user-friendly applications** with a dash of creativity.  
-🌱 Currently enhancing skills in **Advanced JavaScript**, **Node.js**, and **modern web technologies**.  
+💻 Specialize in building **visually appealing**, **user-friendly applications** with a dash of creativity. 
 
 ---
 
