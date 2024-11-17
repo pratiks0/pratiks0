@@ -52,7 +52,5 @@
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/55389276/141079161-b7447eb9-15df-439a-a94e-3c990e0e6f5f.gif" alt="Banner Animation" width="100%" />
-
 ### "Code is like humor. When you have to explain it, it’s bad."  
 </div>
