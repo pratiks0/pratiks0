@@ -28,13 +28,13 @@
 <td valign="top" width="50%" align="center">
 
 **Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 </td>
 <td valign="top" width="50%" align="center">
 
 **Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 </tr>
