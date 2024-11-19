@@ -10,7 +10,7 @@
 
 ## 🌟 **About Me**  
 ✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.  
-💻 Specialize in building **visually appealing**, **user-friendly applications** with a dash of creativity. 
+💻 I craft visually stunning, user-friendly applications with just the right mix of creativity and caffeine.
 
 ---
 
