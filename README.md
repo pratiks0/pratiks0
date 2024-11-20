@@ -43,7 +43,7 @@
 <td align="center" valign="top" width="50%">
 
 ### **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 </td>
 <td align="center" valign="top" width="50%">
