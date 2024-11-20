@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Animation" width="400" />
   
-# 👋 Hi, I'm **Pratik Singh**  
+# <a href="#"><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="wave" width="40px" height="40px" style="animation:wave 2s infinite;" /></a> Hi, I'm **Pratik Singh**  
 **🚀 I bring ideas to life through code!**
 
 </div>
