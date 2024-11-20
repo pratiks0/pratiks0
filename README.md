@@ -36,24 +36,25 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub in Action**
 
-<table>
+<table align="center">
 <tr>
-<td valign="top" width="50%" align="center">
+<td align="center" valign="top" width="50%">
 
-**Top Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+### **Most Used Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </td>
-<td valign="top" width="50%" align="center">
+<td align="center" valign="top" width="50%">
 
-**Contribution Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+### **Coding Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 </tr>
 </table>
+
 
 ---
 
