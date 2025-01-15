@@ -48,9 +48,8 @@
 </td>
 <td align="center" valign="top" width="50%">
 
-### **Coding Streak**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=pratiks0&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-
+### **Github Stats**  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&locale=en&theme=transparent" alt="pratiks0" /></p>
 </td>
 </tr>
 </table>
