@@ -45,11 +45,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiks0&layout=compact&theme=transparent&hide_border=true&langs_count=6)
 
 </td>
-<td align="center" valign="top" width="50%">
 
-### **Github Stats**  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&locale=en&theme=transparent" alt="pratiks0" /></p>
-</td>
 </tr>
 </table>
 
