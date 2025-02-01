@@ -52,6 +52,13 @@
 </tr>
 </table>
 
+---
+## 🎯 **What I'm Learning**
+📚 Currently diving deep into:
+- **AI/ML**: TensorFlow, PyTorch
+- **Cloud Technologies**: AWS, Kubernetes
+- **DevOps**: CI/CD Pipelines, Terraform
+
 
 ---
 
