@@ -55,7 +55,7 @@
 ---
 ## 🎯 **What I'm Learning**
 📚 Currently diving deep into:
-- **AI/ML**: TensorFlow, PyTorch
+- **AI/ML**: Neural network, ML core
 - **Cloud Technologies**: AWS, Kubernetes
 - **DevOps**: CI/CD Pipelines, Terraform
 
