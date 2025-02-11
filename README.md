@@ -9,6 +9,7 @@
 
 ## 🌟 **About Me**  
 ✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.
+
 🎨 UI/UX advocate who believes design matters as much as functionality.
 
 ---
