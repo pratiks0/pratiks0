@@ -8,8 +8,7 @@
 ---
 
 ## 🌟 **About Me**  
-✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.  
-💻 I craft visually stunning, user-friendly applications with just the right mix of creativity and caffeine.<br>
+✨ Passionate **Full Stack Developer** exploring the infinite possibilities of development.
 🎨 UI/UX advocate who believes design matters as much as functionality.
 
 ---
