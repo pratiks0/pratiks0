@@ -74,10 +74,17 @@
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratiks0&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%">
   
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiks0&theme=vision-friendly-dark&hide_border=true" />
-  </p>
+  <table align="center">
+  <tr>
+    <td style="padding: 5px;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiks0&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+    </td>
+    <td style="padding: 5px;">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pratiks0&theme=vision-friendly-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
