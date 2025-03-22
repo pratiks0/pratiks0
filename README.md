@@ -11,16 +11,24 @@
 
 ---
 
-## 💫 **About Me**
-> *"Code is like humor. When you have to explain it, it's bad."*
-
-<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
-
-- 🚀 Building intelligent applications that solve real-world problems
-- 🎨 UI/UX enthusiast who believes great design is invisible
-- 🤖 AI/ML practitioner turning data into insights
-- 🌱 Constantly learning and experimenting with new technologies
-- 👨‍💻 Open source contributor and community builder
+<table>
+  <tr>
+    <td valign="top" width="800">
+      <h2>💫 About Me</h2>
+      <blockquote>
+        <em>"Code is like humor. When you have to explain it, it's bad."</em>
+      </blockquote>
+      <ul>
+        <li>🚀 Building intelligent applications that solve real-world problems</li>
+        <li>🎨 UI/UX enthusiast who believes great design is invisible</li>
+        <li>🤖 AI/ML practitioner turning data into insights</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
