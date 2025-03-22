@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+      <img alt="Coding" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g2bXFxMXc0czUzYTNoa2htMXp1c2ZodXA5bWt6dG1weTFxNWpwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rxzyeEkp0oQ47QQCKk/giphy.gif">
     </td>
   </tr>
 </table>
