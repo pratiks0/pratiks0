@@ -11,24 +11,16 @@
 
 ---
 
-<picture>
-  <source
-    srcset="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="right" width="230" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-</picture>
-
 ## 💫 **About Me**
 > *"Code is like humor. When you have to explain it, it's bad."*
+
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🚀 Building intelligent applications that solve real-world problems
 - 🎨 UI/UX enthusiast who believes great design is invisible
 - 🤖 AI/ML practitioner turning data into insights
+- 🌱 Constantly learning and experimenting with new technologies
+- 👨‍💻 Open source contributor and community builder
 
 ---
 
@@ -115,8 +107,12 @@
 
 ---
 
+
+
 <div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=pratiks0&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   
   ### 💡 Let's turn ideas into reality!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
