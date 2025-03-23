@@ -39,7 +39,7 @@
     <td valign="top" width="25%">
       <h3 align="center">Frontend</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
       </div>
     </td>
     <td valign="top" width="25%">
