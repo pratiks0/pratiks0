@@ -96,8 +96,8 @@
   <a href="https://github.com/pratiks0/CashClique-expense-tracker">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pratiks0&repo=CashClique-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="expense-tracker" />
   </a>
-  <a href="https://github.com/pratiks0/book-store">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pratiks0&repo=book-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="book-store" />
+  <a href="https://github.com/pratiks0/Safenet-AI">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pratiks0&repo=book-store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="safenet" />
   </a>
 </div>
 
