@@ -3,7 +3,7 @@
 # <a href="#"><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="wave" width="40px" height="40px" /></a> Hi, I'm **Pratik Singh**  
 ### 🧠 **Full Stack Developer & AI Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://pratiksingh.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://pratiks1ngh.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik99672@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-singh-a20389314/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prat1k_s)
