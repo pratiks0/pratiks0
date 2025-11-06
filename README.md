@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hi, my name is **Pratik Singh**
-### 💡 Full Stack • AI Practitioner • DevOps
+# Hi, my name is **Pratik Singh**
+### Full Stack • AI Practitioner • DevOps
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://pratiks1ngh.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik99672@gmail.com)
