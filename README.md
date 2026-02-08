@@ -22,10 +22,11 @@
   
 | Domain | Tools & Technologies |
 |:--:|:--:|
+| **Backend** | ![Backend](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres) |
 | **Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind) |
-| **Backend** | ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase) |
-| **AI/ML & Agents** | ![AI/ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,huggingface,langchain) |
-| **DevOps & Cloud** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,vercel) |
+| **APIs & Security** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST, JWT |
+| **AI / ML & Agents** | ![AI/ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,huggingface,langchain) |
+| **DevOps & Cloud** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,vercel) |
 
 </div>
 
