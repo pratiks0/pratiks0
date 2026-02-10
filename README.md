@@ -12,7 +12,7 @@
 
 ### 🧠 About Me  
 
-💡 Passionate **developer** skilled in **AI, full stack development**, and **cloud-native technologies** — currently enhancing expertise in **DevOps** to build smarter, scalable systems.
+💡 Passionate **developer** skilled in **full stack development, AI**, and **cloud-native technologies** .
 
 ---
 
