@@ -26,7 +26,7 @@
 | **Frontend** | ![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind) |
 | **APIs & Security** | Spring Boot, Spring MVC, Spring Data JPA, Spring Security, REST, JWT |
 | **AI / ML & Agents** | ![AI/ML](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,huggingface,langchain) |
-| **DevOps & Cloud** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,vercel) |
+| **DevOps & Cloud** | ![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,git,vercel) |
 
 </div>
 
