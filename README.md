@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-Seasoned **Backend Engineer** with deep expertise in **Java ecosystem**, **system design**, and **production‑grade AI/ML integrations**. I architect and deliver high‑performance, scalable, and resilient platforms—from elegant APIs to complex distributed systems. My work sits at the intersection of **solid engineering fundamentals** and **modern cloud‑native practices**.
+Backend Engineer with a strong foundation in the Java ecosystem and a growing command of system design. I build reliable, production‑ready services and enjoy integrating AI/ML capabilities where they add real value. I'm comfortable working across the stack and believe in shipping clean, observable code that runs well in cloud‑native environments.
 
 ---
 
