@@ -39,7 +39,7 @@ Backend Engineer with a strong foundation in the Java ecosystem and a growing co
 ### 📫 Let’s Build
 
 I’m always open to discussing **backend challenges, system design trade‑offs, AI integration**, or collaborating on impactful projects. Reach out via email or LinkedIn.
-📬 [pratik99672@gmail.com](mailto:pratik00888@gmail.com)
+📬 [pratik00888@gmail.com](mailto:pratik00888@gmail.com)
 </div>
 
 <div align="center">
